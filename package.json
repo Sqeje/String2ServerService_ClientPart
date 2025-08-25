@@ -1,0 +1,7 @@
+﻿{
+    "name": "com.sqeje.Sring2ServerService_ClientPart",
+    "version": "0.1.0",
+    "displayName": "String 2 Service",
+    "unity": "2021.3",
+    "description": "Разработан для удобной отправки строки на удалённый сервер. Код для удалённого сервиса идёт отдельно, но оба проекта оптимизированны друг под друга."
+}
